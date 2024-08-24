@@ -92,7 +92,7 @@ def main():
             ai1.ai_adaptation_to(right_paddle)
 
         if game.choice == 3:
-            game.tournement_check(ai1, right_paddle, ball)
+            game.tournament_check(ai1, right_paddle, ball)
         else:
             game.check_winner(left_paddle, right_paddle, ball)
         
