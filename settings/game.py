@@ -50,7 +50,7 @@ class Game:
         won_text = FONT.render("You won", True, "green")
         lost_text = FONT.render("You lost", True, "red")
         upgrade_text = FONT.render("You're upgraded to the next level", True, "green")
-        downgrade_text = FONT.render("You're downgraded to the level below", True, "green")
+        downgrade_text = FONT.render("You're downgraded to the level below", True, "red")
         text = FONT.render("You will be back to the start menu", True, "white")
 
         if ai.paddle.score == WINNER_SCORE and ai.level == 1:
