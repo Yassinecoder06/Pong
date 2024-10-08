@@ -4,4 +4,5 @@ this is a fun game for singleplayer, multiplayer
 - pause with p button and unpause with c button
 - u can control the paddles with arrows and s,w buttons (for the second player)
 - u can set the ai difficulty in the beginning of the tournement or at singleplayer mode
+- u can use n button to change contrast
 - keep tuned for more update`
